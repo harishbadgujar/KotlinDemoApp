@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinDemoApp</string>
+    <string name="operators">Base Operators</string>
+</resources>
